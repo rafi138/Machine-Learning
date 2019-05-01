@@ -1,0 +1,2 @@
+data analysis: https://archive.ics.uci.edu/ml/machine-learning-databases/wine/wine.names
+# every time you have to delete "wine_prediction_output.csv" otherwise it will show an error.
